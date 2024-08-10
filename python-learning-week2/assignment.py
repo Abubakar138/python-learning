@@ -1,0 +1,20 @@
+print("Hello World!")
+print('Muhammad Abubakar')
+print("Muhammad", "Abubakar")
+print(1, 2, 3)
+print("Muhammad\nAbubakar")
+print("Muhammad\tAbubakar")
+print("apple", "banana", "cherry", sep=", ")
+print(1, 2, 3, sep="-")
+print("Muhammad", end=" ")
+print("Abubakar")
+print(13, end="")
+print(22)
+print('He said, "Hello!"')
+print('This is a backslash: \\')
+age = 25
+print(f"I am {age} years old")
+number = 10
+print(f"The number is {number}")
+for i in range(1, 6):
+    print(i)
